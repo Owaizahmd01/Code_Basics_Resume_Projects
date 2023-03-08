@@ -29,3 +29,37 @@ b.    Metadata
 c.    Hints (try not to use the hints to develop your skills quicker)
 
 d.    Sample questions and Presentation
+
+## Overview:
+🔷Project: Provide Insights to Management
+
+🔷Domain: Consumer Goods
+
+🔷Function: Executive Management
+
+## About the Company:
+Atliq Hardwares (imaginary company) is one of India's leading computer hardware producers and well expanded in other countries.
+
+## Task:
+🔷 Our Task is to run SQL queries to answer 10 ad-hoc requests for which the business needs insights.
+
+🔷 The target audience of this dashboard is top-level management, hence we need to create a presentation to show the insights.
+
+
+As a Junior Data Analyst, my task was to write SQL queries to answer all 10 ad-hoc requests and convert them into visualizations and present them in front of the management so that they can get accurate insights to take crucial business decisions.
+
+## Tools Used:
+🔷MySQL: For SQL Queries
+
+🔷Microsoft PowerBI: For Data Visualizations
+
+🔷Microsoft PowerPoint: Canva
+
+## Key Takings from the Project:
+✔ Revised important SQL concepts like WHERE CLAUSE, GROUP BY, ORDER BY, JOINS, USING, CTE, WINDOW FUNCTION, etc.
+✔Creating Visuals in Microsoft Excel.
+✔Presenting Insights using Microsoft PowerPoint.
+
+I would like to thank Dhaval Patel sir & Hemanand Vadivel sir for creating such amazing opportunities for all aspiring data analysts like me to work on real-life business problems and improve our skills.
+
+Lastly, I would like to take this opportunity to thank codebasics for creating so many in-depth, interactive, interesting & exciting courses for all who want to develop and learn new skills in Data Analysis & Data Engineering.
