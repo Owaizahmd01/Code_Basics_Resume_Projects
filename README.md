@@ -56,7 +56,9 @@ As a Junior Data Analyst, my task was to write SQL queries to answer all 10 ad-h
 
 ## Key Takings from the Project:
 ✔ Revised important SQL concepts like WHERE CLAUSE, GROUP BY, ORDER BY, JOINS, USING, CTE, WINDOW FUNCTION, etc.
-✔Creating Visuals in Microsoft Excel.
+
+✔Creating Visuals in Microsoft PowerBI.
+
 ✔Presenting Insights using Microsoft PowerPoint.
 
 I would like to thank Dhaval Patel sir & Hemanand Vadivel sir for creating such amazing opportunities for all aspiring data analysts like me to work on real-life business problems and improve our skills.
